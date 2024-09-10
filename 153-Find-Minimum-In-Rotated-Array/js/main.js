@@ -18,3 +18,4 @@ var findMin = function(nums) {
     }
     return min;
 };
+console.log("");
