@@ -3,6 +3,7 @@
  * @param {number[]} nums
  * @return {number}
  */
+console.log("helloworld");
 var singleNonDuplicate = function(nums) {
     let n = nums.length;
     if (n === 1) return nums[0];
